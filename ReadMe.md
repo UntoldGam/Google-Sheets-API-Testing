@@ -10,6 +10,13 @@ The data that the module returns is in the following format:
 
 ```json
 {
-    insert something here
+    values: [
+        [
+            100, 100, 100 // row 1
+        ],
+                [
+            100, 100, 100 // row 2
+        ]
+    ]
 }
 ```
